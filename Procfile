@@ -1,1 +1,1 @@
-web: gunicorn app:app
+echo "web: python app.py" > Procfile
